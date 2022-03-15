@@ -1,0 +1,11 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/front.jpg" filesize="520170" filedate="2022-03-07 21:50:23" width="1031px" height="1440px"/>
+<image path="images/frontispiece.jpg" filesize="594696" filedate="2022-03-07 21:50:23" width="966px" height="1440px"/>
+<image path="images/inside-cover.png" filesize="97520" filedate="2022-03-07 21:50:23" width="1440px" height="1094px"/>
+<image path="images/p104.jpg" filesize="646252" filedate="2022-03-07 21:50:23" width="968px" height="1440px"/>
+<image path="images/p121.png" filesize="96365" filedate="2022-03-07 21:50:23" width="1285px" height="1409px"/>
+<image path="images/p144.jpg" filesize="555391" filedate="2022-03-07 21:50:23" width="969px" height="1440px"/>
+<image path="images/p197.jpg" filesize="645342" filedate="2022-03-07 21:50:23" width="966px" height="1440px"/>
+<image path="images/qr67582.png" filesize="334" filedate="2022-03-08 18:57:29" width="296px" height="296px"/>
+<image path="images/titlepage.png" filesize="41901" filedate="2022-03-07 21:50:23" width="924px" height="1440px"/>
+</images>
